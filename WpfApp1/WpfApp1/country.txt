@@ -1,0 +1,8 @@
+中国 CN zh-CN
+俄罗斯 RU ru-RU
+英国 GB en-GB
+法国 FR fr-FR
+美国 US en-US
+
+
+
