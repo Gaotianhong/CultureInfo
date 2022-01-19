@@ -5,4 +5,4 @@ C# WPF 上机题目
 ## 题目要求如下
 <img src="题目截图.jpeg" width = "600" height = "360" alt="" align=center />
 ## 美化后如下
-<img src="界面.jpg" width = "600" height = "360" alt="" align=center />
+<img src="界面.jpg" width = "600" height = "480" alt="" align=center />
